@@ -1,0 +1,8 @@
+Script started on Tue Feb  8 13:25:08 2022
+[1m[7m%[27m[1m[0m                                                                                                                                         ]2;dal@dalAir:~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hddocker ps -a[?1l>[?2004l
+]2;docker ps -a]1;dockerCONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+[1m[7m%[27m[1m[0m                                                                                                                                         ]2;dal@dalAir:~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hddocker images[?1l>[?2004l
+]2;docker images]1;dockerREPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+[1m[7m%[27m[1m[0m                                                                                                                                         ]2;dal@dalAir:~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on Tue Feb  8 13:25:45 2022
