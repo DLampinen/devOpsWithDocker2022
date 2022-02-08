@@ -1,0 +1,9 @@
+Script started on Tue Feb  8 13:18:59 2022
+[1m[7m%[27m[1m[0m                                                                                                    ]2;dal@dalAir:~]1;~[0m[27m[24m[J[39m[0m[49m[40m[39m ✝ [44m[30m[30m ~ [49m[34m[39m [K[?1h=[?2004hddocker ps -a[?1l>[?2004l
+]2;docker ps -a]1;dockerCONTAINER ID   IMAGE     COMMAND                  CREATED             STATUS                         PORTS     NAMES
+c669922c0ba7   nginx     "/docker-entrypoint.…"   About an hour ago   Exited (0) About an hour ago             nifty_edison
+2793813275e4   nginx     "/docker-entrypoint.…"   About an hour ago   Up About an hour               80/tcp    beautiful_noether
+8cf73ec93907   nginx     "/docker-entrypoint.…"   About an hour ago   Exited (0) About an hour ago             elegant_franklin
+[1m[7m%[27m[1m[0m                                                                                                    
+]2;exit]1;exit
+Script done on Tue Feb  8 13:19:17 2022
