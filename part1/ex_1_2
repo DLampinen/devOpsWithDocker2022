@@ -1,10 +1,11 @@
-Script started on Tue Feb  8 13:25:08 2022
-[1m[7m%[27m[1m[0m                                                                                                                                         
-]2;docker ps -a]1;dockerCONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+                                                                                                                                   
+docker ps -a
 
-[1m[7m%[27m[1m[0m                                                                                                                                         
-]2;docker images]1;dockerREPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+                                                                                                                                     
 
-[1m[7m%[27m[1m[0m                                                                                                                                         
-]2;exit]1;exit
+docker images
+
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+                                                                                                                                     
 Script done on Tue Feb  8 13:25:45 2022
